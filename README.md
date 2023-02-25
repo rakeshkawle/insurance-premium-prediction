@@ -1,8 +1,8 @@
 # Insurance-Premium-Prediction
-        Internship Project
+# Internship Project
 The goal of this project to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks whilwe keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective parts.
 
-##Table of contents
+## Table of contents
 - About project
 - Technologies
 - Software and account requirement
@@ -26,9 +26,9 @@ This project is created with below technologies/tools/resources:
  - Git
 
 # Software and account Requirement :-
-1.Github Account
-2.VS Code IDE
-3.GIT CLI
+- 1.Github Account
+- 2.VS Code IDE
+- 3.GIT CLI
 
 ## Setup
 Create a conda environment
@@ -47,12 +47,12 @@ To install requirement file
 - To send version/changes to github `git push origin main`
 
 ## Project Pipeline
-1.Data Ingestion
-2.Data Validation
-3.Data Transformation
-4.Model Training
-5.Model Evaluation
-6.Model Deployement
+- 1.Data Ingestion
+- 2.Data Validation
+- 3.Data Transformation
+- 4.Model Training
+- 5.Model Evaluation
+- 6.Model Deployement
 # 1. Data Ingestion:
 - Data ingestion is the process in which unstructured data is extracted from one or multiple sources and then prepared for training machine learning models.
 # 2. Data Validation:
