@@ -68,3 +68,5 @@ To install requirement file
 - Model evaluation is important to assess the efficacy of a model during initial research phases, and it also plays a role in model monitoring.
 # 6. Model Deployement
 - Deployment is the method by which we integrate a machine learning model into production environment to make practical business decisions based on data.
+![Machine-Learning-Pipeline_2](https://user-images.githubusercontent.com/118442444/221569476-6b7694c5-e3a0-4eb8-9bca-f26288287c43.png)
+
